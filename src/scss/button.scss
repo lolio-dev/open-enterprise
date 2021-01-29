@@ -1,0 +1,35 @@
+.o-btn--primary{
+  height: 64px;
+  width: 219px;
+  padding: 20px 24px;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: 'proxima-nova', sans-serif;
+  background: $primary-color;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.o-btn--primary-secundary{
+  height: 64px;
+  padding: 20px 24px;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: 'proxima-nova', sans-serif;
+  background: $primary-text-color;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.o-btn--secundary{
+  background: $primary-text-color;
+  color: #ffffff;
+  font-family: 'monospace', sans-serif;
+  border-radius: 16px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  padding: 12px 24px;
+}

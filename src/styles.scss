@@ -1,0 +1,11 @@
+@import "scss/variables";
+
+@font-face {font-family: "Bely"; src: url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.eot"); src: url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.woff") format("woff"), url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f05f148ec6596f0b75375fa566aaf1fe.svg#Bely") format("svg"); }
+@import "../assets/fonts/proxima_ssv/proxima.css";
+@import "../assets/fonts/novel-pro/novel-pro.css";
+@import "../assets/fonts/Futura Round Demi/futura-round.css";
+
+@import "scss/text-mixins";
+@import 'scss/reset';
+@import 'scss/base';
+@import "scss/button";

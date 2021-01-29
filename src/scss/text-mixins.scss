@@ -1,0 +1,17 @@
+@mixin title-style{
+  font-family:  'Bely', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 64px;
+  color: $primary-text-color;
+}
+
+@mixin paragraph-style{
+  font-family: 'proxima-nova', sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  color: $primary-text-color;
+}
